@@ -1,0 +1,23 @@
+---
+title: "README.md"
+author: "Hasintha Attanayake"
+date: "26 July 2015"
+output: html_document
+---
+##README: run_analysis.R (assignment 1 getting and cleaning data)
+#Important 
+
+Working directory must contain the 'UCI HAR Dataset' folder.
+Must install the following packages:'plyr' and 'dplyr'
+
+#Purpose of code
+
+run_analysis.R performes the following:
+1. Merges the training and the test sets to create one data set.
+2. Extracts only the measurements on the mean and standard deviation for each measurement. 
+3. Uses descriptive activity names to name the activities in the data set
+4. Appropriately labels the data set with descriptive variable names. 
+5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+
+nb: see captioning in 'run_analysis.R' to understand code.
+nb: see CODEBOOK.Rmd to understand variables. 

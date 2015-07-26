@@ -1,0 +1,6 @@
+run_analysis
+run_analysis.R
+getwd()
+ls
+ls()
+list.all()
